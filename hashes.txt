@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sur Ashur
+
+This log tracks the cryptographic history and versioning for the song **Sur Ashur** (sur-ashur).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-12T08:48:35.751726 | `v1` | `6b2a83eea5b91df3bb3c9bf29a9005730b06c0f580c019f89ad59889f23044ca` | `da34968c5c7503ec6b1a3520ea46857b066ae1afc030530c418b37d8cf2ed1c9` | `2026-05-12_sur-ashur-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

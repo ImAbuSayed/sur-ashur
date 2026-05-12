@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sur-ashur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Sur Ashur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sur-ashur/) |
+| **Get License** | [Official Music Licensing for Sur Ashur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sur-ashur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6b2a83eea5b91df3bb3c9bf29a9005730b06c0f580c019f89ad59889f23044ca` |
 | **Timestamp** | May 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
