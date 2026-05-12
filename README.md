@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sur-ashur/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sur Ashur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sur-ashur/) |
+| **Get License** | [Get License For Sur Ashur](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sur-ashur/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা এক ঘোরে আজ জড়াও আমাকে
+> হৃদয়ের এই গভীরে ডাকি যে তোমাকে
+> তোমারই তো নেশাতে হারিয়েছি মন
+> এ বুকের ভেতর শুধু তুমি সারাক্ষণ
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
